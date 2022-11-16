@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ahshaaban
+- 👋 Hi, I’m Ahmed Shaaban, Azure Cloud Engineer
 - 👀 I’m interested in learnin DevOps...
-- 🌱 I’m currently learning Git/GitHub ...
-- 💞️ I’m looking to collaborate on Azure projects
+- 🌱 I’m currently learning intermediate pyhton.
+- 💞️ I’m looking to collaborate on Azure DevOps projects.
 .
 
 <!---
